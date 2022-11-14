@@ -10,3 +10,7 @@ packages below are needed :
 - LMkor_Electra Pretrained 모델 사용
 - (핵심 아이디어) ABSA baseline의 레이블 불균형을 해결하기 위하여 Class-weight 기법 사용
 - 7 Ensemble 사용
+
+# 참여 인원
+- 지승현 (sorryhyun@soongsil.ac.kr)
+- 황현빈 (hhb9817@naver.com)
